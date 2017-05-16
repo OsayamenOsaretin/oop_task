@@ -1,0 +1,22 @@
+{
+  "name": "oop_task",
+  "version": "1.0.0",
+  "description": "OOP model of meals showing polymorphism, inheritance and encapsulation",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jasmine tests/tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OsayamenOsaretin/oop_task.git"
+  },
+  "author": "o.osayamen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OsayamenOsaretin/oop_task/issues"
+  },
+  "homepage": "https://github.com/OsayamenOsaretin/oop_task#readme"
+}
