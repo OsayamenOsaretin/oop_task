@@ -18,7 +18,7 @@ To use this solution:
 
 - In your working directory, install dependencies by running:
 
-                           ```npm install```
+                           npm install
 
  
 
